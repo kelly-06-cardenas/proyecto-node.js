@@ -1,0 +1,4 @@
+NUEVO ESTUDIANTE 
+ Nombre: kelly
+ Cédula: 1234
+ El estudiante inscrito en el El curso 5: Matematicas, su duración es de:50 horas, y tiene un precio de $40000

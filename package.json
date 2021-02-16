@@ -1,0 +1,16 @@
+{
+  "name": "fundamentos",
+  "version": "1.0.0",
+  "description": "primer proyecto node.js",
+  "main": "primero.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kelly",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "yargs": "^16.2.0",
+    "yars": "^1.2.0"
+  }
+}
